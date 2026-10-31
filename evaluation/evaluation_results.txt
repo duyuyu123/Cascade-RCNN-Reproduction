@@ -1,0 +1,12 @@
+Cascade R-CNN COCO 100 Images Evaluation
+=============================================
+Images: 100
+Ground truth annotations: 719
+Predictions: 2651
+
+AP: 0.4745 (47.45)
+AP50: 0.6712 (67.12)
+AP75: 0.5378 (53.78)
+AP_small: 0.3236 (32.36)
+AP_medium: 0.4987 (49.87)
+AP_large: 0.6505 (65.05)
